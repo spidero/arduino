@@ -3,6 +3,8 @@
 // DHT11 Arduino 5V->5V
 // DHT11 GND -> Arduino GND
 // DHT11 Signal -> Arduino PIN D2
+//
+// Output on Serial (Ctrl-Shift-M)
 
 dht DHT;
 
