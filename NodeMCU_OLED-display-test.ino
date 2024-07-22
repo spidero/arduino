@@ -41,7 +41,7 @@ void setup() {
 
 
   // Wyświetlenie bufora na ekranie
-  //display.display();
+  display.display();
 }
 
 void loop() {
